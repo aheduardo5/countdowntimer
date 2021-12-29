@@ -24,5 +24,4 @@ function countdown() {
 }
 // initial call
 countdown();
-5
 setInterval(countdown, 1000);
